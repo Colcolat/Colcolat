@@ -1,10 +1,10 @@
 <div align="center">
-<img src="./ascii.svg" width="400" alt="ascii portrait"/>
+<img src="./ascii.svg" width="500" alt="ascii portrait"/>
 </div>
 
 <br/>
 
-<div align="right">
+<div align="center">
 
 <img src="./stats.svg" width="700" alt="banner"/>
 
