@@ -1,17 +1,15 @@
-<div align="right">
-
-<img src="./stats.svg" width="880" alt="banner"/>
-
-<a href="https://example.com">website</a> ·
-<a href="https://linkedin.com/in/handle">linkedin</a> ·
-<a href="https://x.com/handle">x</a>
-
+<div align="center">
+<img src="./ascii.svg" width="860" alt="ascii portrait"/>
 </div>
 
 <br/>
 
-<div align="center">
-<img src="./ascii.svg" width="860" alt="ascii portrait"/>
+<div align="right">
+
+<img src="./stats.svg" width="880" alt="banner"/>
+
+<a href="https://www.linkedin.com/in/jjzb">linkedin</a>
+
 </div>
 
 <br/>
