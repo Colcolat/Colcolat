@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="./langs.svg" width="440" alt="Languages"/></td>
-    <td align="center"><img src="./streak.svg" width="440" alt="Streak"/></td>
+    <td align="center"><img src="./langs.svg" width="600" alt="Languages"/></td>
+    <td align="center"><img src="./streak.svg" width="600" alt="Streak"/></td>
   </tr>
 </table>
