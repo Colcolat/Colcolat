@@ -1,12 +1,12 @@
 <div align="center">
-<img src="./ascii.svg" width="860" alt="ascii portrait"/>
+<img src="./ascii.svg" width="400" alt="ascii portrait"/>
 </div>
 
 <br/>
 
 <div align="right">
 
-<img src="./stats.svg" width="300" alt="banner"/>
+<img src="./stats.svg" width="700" alt="banner"/>
 
 <a href="https://www.linkedin.com/in/jjzb">linkedin</a>
 
