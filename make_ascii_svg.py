@@ -9,7 +9,7 @@ RAMP = " .`:-=+*cs#%@"
 COLS = 130
 CLAHE_CLIP = 2.2
 GAMMA = 1.0
-CROP_BOTTOM = 0.0      # trim this fraction off the bottom
+CROP_BOTTOM = 0.19     # trim this fraction off the bottom
 FG_LIGHT = "#6e7681"   # grey, readable on GitHub light
 FG_DARK = "#c9d1d9"    # light grey on GitHub dark
 CHAR_W = 7.74
