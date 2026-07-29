@@ -6,7 +6,7 @@
 
 <div align="right">
 
-<img src="./stats.svg" width="500" alt="banner"/>
+<img src="./stats.svg" width="300" alt="banner"/>
 
 <a href="https://www.linkedin.com/in/jjzb">linkedin</a>
 
