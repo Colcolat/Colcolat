@@ -19,9 +19,6 @@
   </tr>
 </table>
 
-<div align="center">
-<img src="images/tu-foto.jpg" width="150" style="border-radius: 15%" align="center" hspace="20">
-
 <h1><i>Hi, </i> I'm JJ!</h1>
 <h3><small><i>Building things by day, playing piano by night </i></small></h3>
 <br>
