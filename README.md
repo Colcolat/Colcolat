@@ -34,7 +34,7 @@
 <li> Treasurer of the <i> IEEE </i> student branch (2026 – 2028). </li>
 </ul>
 
-<h2> 𖦹Technologies </h2>
+<h2> Technologies </h2>
 <div align="left">
 <table>
   <tr>
@@ -72,7 +72,7 @@
 </table>
 </div>
 
-<h2>Certifications </h2>
+<h2> Certifications </h2>
 <div align="center">
   <a href="https://www.credly.com/badges/ecbf3d11-16c4-4595-83b3-945242488d8f/public_url" target="_blank">
     <img src="./images/aws-cloud-quest-cloud-practitioner-training-badge.png" width="180" alt="AWS Cloud Practitioner">
